@@ -1,0 +1,30 @@
+[
+    {
+        "username": "oY36hDpnjol9",
+        "address": "AeY123RcNdyCCBmJdPHeETyUjTp8NpbjwJ9x7GRn2JXZ",
+        "phrase": [
+            "job",
+            "sphere",
+            "oval",
+            "narrow",
+            "damage",
+            "mother",
+            "monster",
+            "foot",
+            "charge",
+            "eager",
+            "radar",
+            "toilet"
+        ],
+        "actor_id": "6e3a6043-98e9-4cec-82fd-9a3a0bf30353",
+        "follow_started": true,
+        "follow_finished": true,
+        "following": []
+    },
+    {
+        "username": "replace_target_username_here",
+        "actor_id": false,
+        "follow_started": true,
+        "follow_finished": true
+    }
+]
